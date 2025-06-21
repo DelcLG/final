@@ -1,3 +1,5 @@
+// Fichier : tsconfig.app.json
+
 {
   "compilerOptions": {
     "composite": true,
@@ -22,5 +24,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "tailwind.config.js"]
+  "include": ["src", "tailwind.config.cjs"]
 }

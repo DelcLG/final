@@ -1,5 +1,6 @@
-// Nouveau code CORRECT
-export default {
+// Fichier : postcss.config.cjs
+
+module.exports = {
   plugins: {
     '@tailwindcss/postcss': {},
     autoprefixer: {},
